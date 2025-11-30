@@ -1,6 +1,6 @@
 ## Hi there I am Abhiram Reddy
 # 💫 About Me:
-About Me (GPRM Output)<br><br>🔭 I’m currently working on:<br>AI automation tools & a trading bot<br><br>🤝 I’m looking to collaborate on:<br>Web development projects<br><br>🌱 I’m currently learning:<br>Data Structures and React<br><br>💬 Ask me about:<br>Coding, project ideas, and trading concepts<br><br>⚡ Fun fact:<br>I learn faster by building real projects
+About Me <br><br>🔭 I’m currently working on:<br>AI automation tools & a trading bot<br><br>🤝 I’m looking to collaborate on:<br>Web development projects<br><br>🌱 I’m currently learning:<br>Data Structures and React<br><br>💬 Ask me about:<br>Coding, project ideas, and trading concepts<br><br>⚡ Fun fact:<br>I learn faster by building real projects
 
 
 ## 🌐 Socials:
